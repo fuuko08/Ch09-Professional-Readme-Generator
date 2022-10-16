@@ -78,6 +78,7 @@ function generateMarkdown(data) {
   let licenseBadge = renderLicenseBadge(data.license);
   let licenseInfo = renderLicenseSection(data.license);
   return `# ${data.title}
+
   ${licenseBadge}
 
 ## Description
@@ -131,13 +132,13 @@ ${data.testing}
 
 ## Questions
 
-[Email me for more information]: 
+* Email me for more information @:
 
 ${data.email}
 
-[Check out my other projects on Github]
+* Check out my other projects on Github @:
 
-Link: https://www.github.com/${userName}
+https://www.github.com/${userName}
 
 `;
 }

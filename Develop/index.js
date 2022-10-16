@@ -14,7 +14,7 @@ const questions = [
     {
         type: "input",
         message: "What is your email address?",
-        name: "email",
+        name: "email"
     },
     {
         type: "input",
@@ -23,12 +23,12 @@ const questions = [
     }, 
     {
         type: "input",
-        message: "Please enter a short description of this project?",
+        message: "Please enter a short description of your project?",
         name: "description"
     },
     {
         type: "input",
-        message: "What is your project installation instructions?",
+        message: "Please enter installation instructions for your project.",
         name: "instruction"
     },
     {
@@ -38,12 +38,12 @@ const questions = [
     },
     {
         type: "input",
-        message: "What is your project contributing?",
+        message: "Who are contributing to this app?",
         name: "contributing"
     },
     {
         type: "input",
-        message: "What is your project testing procedure?",
+        message: "What is the testing command?",
         name: "testing"
     },
     {
