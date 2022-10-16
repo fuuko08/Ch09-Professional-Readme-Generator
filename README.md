@@ -34,6 +34,5 @@ I created an command-line app using nodejs to help users easily creating a profe
 
 ## Mock Up
 
-Check out the demo video of my app on this Youtube Link:
-
-Check out my code on this github link: 
+Check out the demo video of my app on this Youtube Link: https://www.youtube.com/watch?v=SHVrN5_1SA0&t=3s
+ 
